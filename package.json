@@ -1,0 +1,21 @@
+{
+  "name": "gitpractical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbottt/gitprac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zbottt/gitprac/issues"
+  },
+  "homepage": "https://github.com/zbottt/gitprac#readme"
+}
